@@ -1,5 +1,5 @@
 # Walmart Sales Analysis Overview
-This project analyzed historic Walmart sales data ranging from 2010 to 2012 across 45 stores and evaluated multiple regression models to predict weekly sales. The project combines data analysis, visualization, regression, and an interactive Power BI dashboard. The dashboard contains information about sales trends based on stores, date, size, and type and also evaluated the linear regression performance.
+This project analyzed historic Walmart sales data ranging from 2010 to 2012 across 45 stores and evaluated multiple regression models to predict weekly sales. The project combines data analysis, visualization, regression, and an [interactive Power BI dashboard](https://app.powerbi.com/reportEmbed?reportId=02ca9f1b-c422-4555-bb03-c869d0b739c6&autoAuth=true&ctid=44467e6f-462c-4ea2-823f-7800de5434e3). The dashboard contains information about sales trends based on stores, date, size, and type and also evaluated the linear regression performance.
 
 # Data Preparation
 * Merge datasets containing store size, features, and sales into one dataset
