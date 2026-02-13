@@ -13,6 +13,7 @@ Compared and implemented :
 * Elastic Net Regression
 * Ridge Regression
 * Lasso Regression
+
 Models were evaluated on R^2 value, RMSE and inherent advantages and disadvantanges (multicollinearity, feature selection)
 
 # Results
